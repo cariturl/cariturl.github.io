@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cariturl.github.io/sitemap.html.gz
+Sitemap: https://cariturl.github.io/app/sitemap.html.gz
+Sitemap: https://cariturl.github.io/assets/sitemap.html.gz
+Sitemap: https://cariturl.github.io/css/sitemap.html.gz
+Sitemap: https://cariturl.github.io/includes/sitemap.html.gz
+Sitemap: https://cariturl.github.io/item/sitemap.html.gz
+Sitemap: https://cariturl.github.io/src/sitemap.html.gz
